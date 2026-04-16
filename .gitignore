@@ -1,0 +1,20 @@
+# Dataset
+data/
+
+# Results & outputs
+results/
+results_sgcn/
+results_sgcn_improved/
+
+# Trained models
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+*.lnk
+__pycache__/
+*.pyc
+.DS_Store
