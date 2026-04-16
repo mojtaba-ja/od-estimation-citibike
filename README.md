@@ -119,3 +119,18 @@ pip install torch pandas numpy scikit-learn matplotlib seaborn folium
 ```
 
 Python 3.8+ · PyTorch ≥ 1.9
+
+---
+
+## Citation
+
+If you use this code or find it helpful in your research, please cite:
+
+```bibtex
+@article{jafarian5801889spatial,
+  title   = {Spatial Graph Convolutional Network for Predicting
+             Bike-Sharing Origin-Destination Spatiotemporal Flows},
+  author  = {Jafarian Abyaneh, Mojtaba and Jang, Jinwoo and Kaisar, Evangelos I},
+  journal = {Available at SSRN 5801889}
+}
+```
